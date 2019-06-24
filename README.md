@@ -1,6 +1,6 @@
 # Band Tour website 
 A simple site for a mockup music band in an atypical bootstrap layout
-#Technologies
+# Technologies
 * HTML
 * CSS
 * Bootstrap 4
