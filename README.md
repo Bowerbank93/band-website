@@ -5,3 +5,6 @@ A simple site for a mockup music band in an atypical bootstrap layout
 * CSS
 * Bootstrap 4
 * JQuery
+---
+permalink: /index.html
+---
